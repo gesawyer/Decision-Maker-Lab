@@ -1,0 +1,13 @@
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\bin\Debug\netcoreapp3.1\DecisionMakerNumbers.exe
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\bin\Debug\netcoreapp3.1\DecisionMakerNumbers.deps.json
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\bin\Debug\netcoreapp3.1\DecisionMakerNumbers.runtimeconfig.json
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\bin\Debug\netcoreapp3.1\DecisionMakerNumbers.runtimeconfig.dev.json
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\bin\Debug\netcoreapp3.1\DecisionMakerNumbers.dll
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\bin\Debug\netcoreapp3.1\DecisionMakerNumbers.pdb
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\obj\Debug\netcoreapp3.1\DecisionMakerNumbers.csprojAssemblyReference.cache
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\obj\Debug\netcoreapp3.1\DecisionMakerNumbers.AssemblyInfoInputs.cache
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\obj\Debug\netcoreapp3.1\DecisionMakerNumbers.AssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\obj\Debug\netcoreapp3.1\DecisionMakerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\obj\Debug\netcoreapp3.1\DecisionMakerNumbers.dll
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\obj\Debug\netcoreapp3.1\DecisionMakerNumbers.pdb
+C:\Users\grace\OneDrive\Desktop\DecisionMaker0120\DecisionMakerNumbers\DecisionMakerNumbers\obj\Debug\netcoreapp3.1\DecisionMakerNumbers.genruntimeconfig.cache
